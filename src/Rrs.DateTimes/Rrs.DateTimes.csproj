@@ -3,10 +3,10 @@
     <Description>Rrs.DateTimes Class Library</Description>
     <Authors>Robert Snipe</Authors>
     <Copyright>Copyright (c) 2018 Robert Snipe</Copyright>
-    <TargetFrameworks>netstandard2.0;net40</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;net40;net5.0</TargetFrameworks>
     <AssemblyName>Rrs.DateTimes</AssemblyName>
     <PackageId>Rrs.DateTimes</PackageId>
-    <PackageTags>DateTime;Net40</PackageTags>
+    <PackageTags>DateTime;Net40;net5</PackageTags>
     <PackageProjectUrl>https://github.com/rrs/DateTimes</PackageProjectUrl>
     <Version>1.1.0</Version>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
